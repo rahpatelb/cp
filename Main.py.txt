@@ -24,9 +24,9 @@ from pyrogram.errors import FloodWait
 
 bot = Client(
     "bot",
-    api_id=API_ID,
-    api_hash=API_HASH,
-    bot_token=BOT_TOKEN
+    api_id=33891184,
+    api_hash=ba3af95840d1746b1bc0609cddb5800d,
+    bot_token=8931575890:AAE4LN73BvrUtVHoaKqvyRXQJaYWzhv_doM
 )
 
 routes = web.RouteTableDef()
